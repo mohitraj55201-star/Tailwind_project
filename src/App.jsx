@@ -1,5 +1,4 @@
 import React from 'react'
-import Section2 from './components/section2/Section2'
 import Section1 from './components/section1/Section1'
 
 const users=[
